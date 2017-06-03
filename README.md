@@ -11,3 +11,5 @@ CSS masks, SVG Filters, local file upload, Undo and Redo feature, Crop, and if I
 
 I would also relly like to include presets, such as Vignettes (can be done with radial gradients), and other effects like instagram may  have etc...
 Help with creating preset values needed!
+
+![Alt text](photoJSss.png?raw=true "ScreenShot")
