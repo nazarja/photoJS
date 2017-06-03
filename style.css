@@ -398,6 +398,7 @@ clip-path: var(--clip-path);
 input  {
 	text-align: center;
 	margin-right: 15px;
+	cursor: pointer;
 }
 
 
